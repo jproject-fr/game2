@@ -16,7 +16,7 @@
       "hint": "Il lit la prof"
     },
     {
-      "question": "Vous n'aurez besoin de toucher à rien, mais de bien observer<br>Dans le bureau, se trouve une rangée de livre, à partir de laquelle vous allez devoir former une phrase à partir de la matrice suivante :<br><br>Bleu - 1<br>Marron - 4<br>197 - 2<br>EMS - 2<br>248 - 3<br>Poche - 4.",
+      "question": "Vous n'aurez besoin de toucher à rien, mais de bien observer.<br>Dans le bureau, se trouve une rangée de livres, à partir de laquelle vous allez devoir former une phrase à partir de la matrice suivante :<br><br>Bleu - 1<br>Marron - 4<br>197 - 2<br>EMS - 2<br>248 - 3<br>Poche - 4.",
       "answer": "mille contes fantastiques de neige bleu",
       "hint": "la première partie est une caractéristique du livre, la 2ème le nème mot du titre"
     },
